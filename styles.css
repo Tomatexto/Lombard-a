@@ -4,7 +4,7 @@ html{
 
 @font-face {
     font-family: ikacompact;
-    src: url(./IkaCompactTrial-Condensed.otf);
+    src: url(./public/IkaCompactTrial-Condensed.otf);
 }
 
 body{
