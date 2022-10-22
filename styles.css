@@ -8,7 +8,7 @@ html{
 }
 
 body{
-    overflow-y: scroll
+    overflow-y: scroll;
 }
 header {
     width:100%;
